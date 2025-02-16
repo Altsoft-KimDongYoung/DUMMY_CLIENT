@@ -222,15 +222,5 @@ export const API_URL = {
   },
   TEST: {
     A: 'A',
-    B: 'B',
-    C: 'C',
-    D: 'D',
-    E: 'E',
-    F: 'F',
-  },
-  ONDAJI: {
-    CLIENT_A: 'A',
-    CLIENT_B: 'B',
-    CLIENT_C: 'C',
   },
 } as const;
