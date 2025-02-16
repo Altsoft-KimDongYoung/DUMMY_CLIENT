@@ -231,5 +231,6 @@ export const API_URL = {
   ONDAJI: {
     CLIENT_A: 'A',
     CLIENT_B: 'B',
+    CLIENT_C: 'C',
   },
 } as const;
