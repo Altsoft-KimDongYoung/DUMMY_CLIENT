@@ -226,4 +226,5 @@ export const API_URL = {
     CLIENT_B: 'CLIENT-B-1',
   },
   CLIENT_A: 'CLIENT-A-1',
+  CLIENT_C: 'CLIENT-C-1',
 } as const;
