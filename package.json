@@ -1,0 +1,15 @@
+{
+  "name": "dummy_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "update:constants": "git subtree pull --prefix=src/constants/ondaji ondaji-constants main",
+    "update:service": "git subtree pull --prefix=src/services/ondaji ondaji-service main",
+    "update:utils": "git subtree pull --prefix=src/utils/ondaji ondaji-utils main",
+    "update:hooks": "git subtree pull --prefix=src/hooks/ondaji ondaji-hooks main",
+    "update:types": "git subtree pull --prefix=src/types ondaji-types main"
+  },
+  "author": "",
+  "license": "ISC"
+}
