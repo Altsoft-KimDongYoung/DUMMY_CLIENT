@@ -224,4 +224,5 @@ export const API_URL = {
     A: 'A',
     CLIENT_A: 'CLIENT-A',
   },
+  CLIENT_A: 'CLIENT-A',
 } as const;
